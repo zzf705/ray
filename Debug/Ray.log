@@ -1,0 +1,313 @@
+﻿生成启动时间为 2014/11/27 20:43:59。
+     1>项目“E:\快盘\测试写的程序备份\11.27反射系数进行调整\Ray\Ray\Ray.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\Ray.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\Ray.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt basestationShooting.cpp Building.cpp BuildingPoint.cpp ChangeTypeTool.cpp complex.cpp empiricalFormula.cpp findGrid.cpp firstReflectionNew.cpp Grid.cpp gridPower.cpp GridPowerResult.cpp main.cpp picture.cpp rayInit.cpp rayManage.cpp rayPath.cpp ShootingRay.cpp
+         ShootingRay.cpp
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(168): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(168): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(168): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(168): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(168): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(168): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(168): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(168): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(168): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(168): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(168): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(169): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(169): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(169): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(169): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(169): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(169): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(169): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(169): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(169): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(169): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(169): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(169): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(169): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(169): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(169): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(169): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(170): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(170): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(170): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(170): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(170): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(170): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(170): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(170): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(170): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(170): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(170): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(170): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(170): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(170): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(170): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(171): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(171): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(171): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(171): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(171): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(171): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(171): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(171): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(171): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(171): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(171): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(171): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(171): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(171): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(171): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(173): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(173): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(173): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(185): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(190): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(191): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(192): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(253): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(254): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(255): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\shootingray.cpp(256): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         rayPath.cpp
+         rayManage.cpp
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(63): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(69): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(73): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(79): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(83): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(104): warning C4018: “<=”: 有符号/无符号不匹配
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(144): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(145): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(163): warning C4018: “<=”: 有符号/无符号不匹配
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(177): warning C4018: “<=”: 有符号/无符号不匹配
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(181): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(182): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(183): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(185): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(214): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(243): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(9): warning C4101: “searchgridnum”: 未引用的局部变量
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(289): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(315): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(327): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(381): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(382): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(390): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(391): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(392): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(397): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(398): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(417): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(478): warning C4101: “sinValue”: 未引用的局部变量
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(496): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(502): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(511): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\raymanage.cpp(534): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         rayInit.cpp
+         picture.cpp
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.cpp(74): warning C4101: “GEcolor”: 未引用的局部变量
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.cpp(55): warning C4101: “error”: 未引用的局部变量
+         main.cpp
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(8): warning C4005: “COLOR1”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(14) : 参见“COLOR1”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(9): warning C4005: “COLOR2”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(15) : 参见“COLOR2”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(10): warning C4005: “COLOR3”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(16) : 参见“COLOR3”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(11): warning C4005: “COLOR4”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(17) : 参见“COLOR4”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(12): warning C4005: “COLOR5”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(18) : 参见“COLOR5”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(13): warning C4005: “COLOR6”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(19) : 参见“COLOR6”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(14): warning C4005: “COLOR7”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(20) : 参见“COLOR7”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(15): warning C4005: “COLOR8”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(21) : 参见“COLOR8”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(16): warning C4005: “COLOR9”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(22) : 参见“COLOR9”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(13): warning C4005: “COLOR1”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(8) : 参见“COLOR1”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(14): warning C4005: “COLOR2”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(9) : 参见“COLOR2”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(15): warning C4005: “COLOR3”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(10) : 参见“COLOR3”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(16): warning C4005: “COLOR4”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(11) : 参见“COLOR4”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(17): warning C4005: “COLOR5”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(12) : 参见“COLOR5”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(18): warning C4005: “COLOR6”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(13) : 参见“COLOR6”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(19): warning C4005: “COLOR7”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(14) : 参见“COLOR7”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(20): warning C4005: “COLOR8”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(15) : 参见“COLOR8”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(21): warning C4005: “COLOR9”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(16) : 参见“COLOR9”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\main.cpp(325): warning C4101: “mBid2”: 未引用的局部变量
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\main.cpp(325): warning C4101: “mBid1”: 未引用的局部变量
+         GridPowerResult.cpp
+         gridPower.cpp
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(13): warning C4005: “COLOR1”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(8) : 参见“COLOR1”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(14): warning C4005: “COLOR2”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(9) : 参见“COLOR2”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(15): warning C4005: “COLOR3”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(10) : 参见“COLOR3”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(16): warning C4005: “COLOR4”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(11) : 参见“COLOR4”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(17): warning C4005: “COLOR5”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(12) : 参见“COLOR5”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(18): warning C4005: “COLOR6”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(13) : 参见“COLOR6”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(19): warning C4005: “COLOR7”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(14) : 参见“COLOR7”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(20): warning C4005: “COLOR8”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(15) : 参见“COLOR8”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(21): warning C4005: “COLOR9”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(16) : 参见“COLOR9”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.cpp(165): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.cpp(189): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.cpp(190): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.cpp(195): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.cpp(196): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.cpp(200): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.cpp(201): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         Grid.cpp
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.cpp(56): warning C4101: “mBid2”: 未引用的局部变量
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.cpp(56): warning C4101: “mBid1”: 未引用的局部变量
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.cpp(43): warning C4101: “e”: 未引用的局部变量
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.cpp(124): warning C4101: “mBid2”: 未引用的局部变量
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.cpp(124): warning C4101: “mBid1”: 未引用的局部变量
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.cpp(112): warning C4101: “e”: 未引用的局部变量
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.cpp(221): warning C4101: “mBid2”: 未引用的局部变量
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.cpp(221): warning C4101: “mBid1”: 未引用的局部变量
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.cpp(206): warning C4101: “e”: 未引用的局部变量
+         firstReflectionNew.cpp
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\firstreflectionnew.cpp(33): warning C4305: “=”: 从“__int64”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\firstreflectionnew.cpp(34): warning C4305: “=”: 从“__int64”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\firstreflectionnew.cpp(53): warning C4305: “=”: 从“__int64”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\firstreflectionnew.cpp(54): warning C4305: “=”: 从“__int64”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\firstreflectionnew.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\firstreflectionnew.cpp(76): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\firstreflectionnew.cpp(77): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\firstreflectionnew.cpp(96): warning C4305: “初始化”: 从“__int64”到“float”截断
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\firstreflectionnew.cpp(97): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\firstreflectionnew.cpp(163): warning C4018: “<=”: 有符号/无符号不匹配
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\firstreflectionnew.cpp(67): warning C4101: “buildingvertex”: 未引用的局部变量
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\firstreflectionnew.cpp(330): warning C4018: “<”: 有符号/无符号不匹配
+         findGrid.cpp
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\findgrid.cpp(433): warning C4101: “aaaaa”: 未引用的局部变量
+         empiricalFormula.cpp
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\empiricalformula.cpp(12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\empiricalformula.cpp(14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\empiricalformula.cpp(16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\empiricalformula.cpp(19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\empiricalformula.cpp(36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\empiricalformula.cpp(42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\empiricalformula.cpp(48): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\empiricalformula.cpp(50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\empiricalformula.cpp(56): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         complex.cpp
+         ChangeTypeTool.cpp
+         BuildingPoint.cpp
+         Building.cpp
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\building.cpp(46): warning C4101: “e”: 未引用的局部变量
+         basestationShooting.cpp
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(8): warning C4005: “COLOR1”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(14) : 参见“COLOR1”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(9): warning C4005: “COLOR2”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(15) : 参见“COLOR2”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(10): warning C4005: “COLOR3”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(16) : 参见“COLOR3”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(11): warning C4005: “COLOR4”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(17) : 参见“COLOR4”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(12): warning C4005: “COLOR5”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(18) : 参见“COLOR5”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(13): warning C4005: “COLOR6”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(19) : 参见“COLOR6”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(14): warning C4005: “COLOR7”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(20) : 参见“COLOR7”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(15): warning C4005: “COLOR8”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(21) : 参见“COLOR8”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(16): warning C4005: “COLOR9”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\picture.h(22) : 参见“COLOR9”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(13): warning C4005: “COLOR1”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(8) : 参见“COLOR1”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(14): warning C4005: “COLOR2”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(9) : 参见“COLOR2”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(15): warning C4005: “COLOR3”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(10) : 参见“COLOR3”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(16): warning C4005: “COLOR4”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(11) : 参见“COLOR4”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(17): warning C4005: “COLOR5”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(12) : 参见“COLOR5”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(18): warning C4005: “COLOR6”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(13) : 参见“COLOR6”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(19): warning C4005: “COLOR7”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(14) : 参见“COLOR7”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(20): warning C4005: “COLOR8”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(15) : 参见“COLOR8”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\gridpower.h(21): warning C4005: “COLOR9”: 宏重定义
+                 e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\grid.h(16) : 参见“COLOR9”的前一个定义
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\basestationshooting.cpp(306): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\basestationshooting.cpp(343): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\basestationshooting.cpp(344): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\basestationshooting.cpp(326): warning C4101: “mBid2”: 未引用的局部变量
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\basestationshooting.cpp(326): warning C4101: “mBid1”: 未引用的局部变量
+         正在生成代码...
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\findgrid.cpp(161): warning C4715: “findGrid::findpointgridy”: 不是所有的控件路径都返回值
+     1>e:\快盘\测试写的程序备份\11.27反射系数进行调整\ray\ray\findgrid.cpp(626): warning C4715: “findGrid::findfirstpointgridy”: 不是所有的控件路径都返回值
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\快盘\测试写的程序备份\11.27反射系数进行调整\Ray\Debug\Ray.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Ray.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\快盘\测试写的程序备份\11.27反射系数进行调整\Ray\Debug\Ray.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\快盘\测试写的程序备份\11.27反射系数进行调整\Ray\Debug\Ray.lib" /MACHINE:X86 Debug\basestationShooting.obj
+         Debug\Building.obj
+         Debug\BuildingPoint.obj
+         Debug\ChangeTypeTool.obj
+         Debug\complex.obj
+         Debug\empiricalFormula.obj
+         Debug\findGrid.obj
+         Debug\firstReflectionNew.obj
+         Debug\Grid.obj
+         Debug\gridPower.obj
+         Debug\GridPowerResult.obj
+         Debug\main.obj
+         Debug\picture.obj
+         Debug\rayInit.obj
+         Debug\rayManage.obj
+         Debug\rayPath.obj
+         Debug\ShootingRay.obj
+         Ray.vcxproj -> E:\快盘\测试写的程序备份\11.27反射系数进行调整\Ray\Debug\Ray.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"E:\快盘\测试写的程序备份\11.27反射系数进行调整\Ray\Debug\Ray.exe.manifest" /manifest Debug\Ray.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Ray.unsuccessfulbuild”。
+         正在对“Debug\Ray.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\快盘\测试写的程序备份\11.27反射系数进行调整\Ray\Ray\Ray.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:20.05
