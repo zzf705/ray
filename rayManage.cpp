@@ -21,7 +21,7 @@ void rayManage:: findFinalCrossPoint(float startPointx,float startPointy,float s
    m.setallgridx(q.get_allgridx());//将得到的水平网格编号的集合赋给searchgridx[1000]
    m.setallgridy(q.get_allgridy());//将得到的水平网格编号的集合赋给searchgridy[1000]
    m.setsearchgridnumber();
-  //aaaaaa
+  
 	
 	
 	//int gridm[1000],gridn[1000];
